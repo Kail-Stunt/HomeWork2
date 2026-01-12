@@ -5,6 +5,9 @@ public class Main {
         var dog = 8;
         var cat = 3.6;
         var paper = 763789;
+        dog=dog+4;
+        cat=cat+4;
+        paper=paper+4;
         System.out.println("Значение переменной dog = "+dog);
         System.out.println("Значение переменной cat = "+cat);
         System.out.println("Значение переменной paper = "+paper);
