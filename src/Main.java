@@ -5,9 +5,9 @@ public class Main {
         var friend = 19;
         System.out.println("Значение исходной переменной friend = "+friend);
         friend=friend+2;
-        System.out.println("Значение исходной переменной friend = "+friend);
+        System.out.println("Значение исходной переменной friend увеличенной на 2 = "+friend);
         friend=friend/7;
-        System.out.println("Значение исходной переменной friend = "+friend);
+        System.out.println("Значение переменной friend делённой на 7 = "+friend);
 
     }
 }
